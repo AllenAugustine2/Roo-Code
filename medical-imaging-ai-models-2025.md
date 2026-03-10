@@ -1,6 +1,15 @@
 # 顶尖医学影像 AI 诊断模型综合评估报告
 ## 截至 2025 年 1 月
 
+> **补充问答：GitHub Copilot 是否支持 Codex 和 Claude Code 快速切换？**
+>
+> 目前**不能简单理解为“已原生支持在 GitHub Copilot 里一键快速切换 Codex 和 Claude Code 两个独立产品”**。  
+> - 如果你指的是 **Copilot Chat 可选底层模型**：是否能切换，取决于 GitHub 官方当前开放的模型列表、你的套餐以及客户端版本。  
+> - 如果你指的是 **OpenAI Codex** 和 **Anthropic Claude Code** 这两个各自独立的能力/工具形态：GitHub Copilot 通常**没有统一的原生入口**让你在同一会话里直接秒切到 “Claude Code” 产品本体。  
+> - 更准确的说法是：**Copilot 可能支持切换部分模型，但不等于原生支持在 Codex 与 Claude Code 两套产品之间快速切换调用。**
+>
+> 如需确认最新能力，建议以 GitHub Copilot 官方发布说明和设置页为准。
+
 ---
 
 ## 📋 目录
